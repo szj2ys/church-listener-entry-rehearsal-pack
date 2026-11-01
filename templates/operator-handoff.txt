@@ -1,0 +1,31 @@
+PRIVATE WORKING COPY - do not add passwords, private tokens or personal logs.
+
+Service date/time:
+Card version:
+Operator role:
+Welcome-team role:
+Language-review role:
+
+Public listener destination:
+Typed short address:
+Destination is permanent or changes per service:
+Role responsible for replacing all copies when it changes:
+
+Actual offered language(s) and relevant variety:
+Text available during:
+Audio available during, if any:
+Provider's normal listener selection/start instructions:
+Expected church/service identity shown after opening:
+
+Permitted short test passage:
+Who approves use of that passage:
+Relevant rehearsal-log row IDs:
+
+Findable help location:
+Assigned help role:
+Fallback and its limits:
+Who makes the fallback available:
+
+Last verified date/time:
+Unresolved issue or HOLD reason:
+Next check before distribution:

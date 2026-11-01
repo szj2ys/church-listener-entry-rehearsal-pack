@@ -1,0 +1,9 @@
+case_id,card_version,test_date,device_label,check,expected_result,observed_result,status,correction_owner_role,correction,retest_of
+EXAMPLE_ONLY,FICTIONAL,,,,All rows are invented teaching observations; not real field results,,,,,
+R01,E1,2026-11-08,Phone A,digital_link,Example service 1108,Example service 1108 shown,PASS,,,
+R02,E1,2026-11-08,Phone A,typed_address,Example service 1108,Old service 1101 shown,FAIL,website volunteer,Correct the short-address redirect and all distributed copies,
+R02b,E2,2026-11-08,Phone A,typed_address,Example service 1108,Example service 1108 shown after correction,PASS,website volunteer,Updated card and short address,R02
+R03,E2,2026-11-08,Phone A,language_selection,Spanish text offered,Spanish selected,PASS,,,
+R04,E2,2026-11-08,Phone A,first_passage,Permitted practice text arrives,Practice text arrived; audio is not advertised,PASS,,,
+R05,E2,2026-11-08,No phone,help_point,Welcome volunteer at entrance desk,Helper found from card directions,PASS,,,
+R06,E2,2026-11-08,No phone,no_phone_fallback,Reviewed outline at desk with limits explained,Outline available; helper explained it omits live changes,PASS,,,

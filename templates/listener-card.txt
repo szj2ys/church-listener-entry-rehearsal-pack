@@ -1,0 +1,22 @@
+WORKING TEMPLATE - replace every bracketed instruction before use.
+
+[Church name] - [service date and time]
+Card version: [version]
+
+LANGUAGE SUPPORT
+[Language and format actually offered]
+[When support starts and stops]
+
+OPEN THE LISTENER PAGE
+Digital bulletin link label: [describe the service and language]
+Typed address: [tested public short address]
+On the page: [the provider's tested selection/start instruction]
+
+NEED HELP?
+Find [assigned welcome role] at [specific, findable location].
+
+NO PHONE, OR THIS ROUTE DOES NOT WORK?
+[The available fallback and what it covers]
+
+[Remove or replace any offer that has not been rehearsed.]
+[Prepare another language or format with an appropriate reviewer.]

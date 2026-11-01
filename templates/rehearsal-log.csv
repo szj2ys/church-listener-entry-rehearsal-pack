@@ -1,0 +1,7 @@
+case_id,card_version,test_date,device_label,check,expected_result,observed_result,status,correction_owner_role,correction,retest_of
+R01,,,,digital_link,Correct current church and service,,NOT TESTED,,,
+R02,,,,typed_address,Same current service reached without QR,,NOT TESTED,,,
+R03,,,,language_selection,Advertised language is offered and selected,,NOT TESTED,,,
+R04,,,,first_passage,Permitted text arrives and advertised audio is checked separately,,NOT TESTED,,,
+R05,,,,help_point,Assigned helper found from card directions,,NOT TESTED,,,
+R06,,,,no_phone_fallback,Available alternative and its limits are explained,,NOT TESTED,,,

@@ -1,0 +1,39 @@
+FICTIONAL EXAMPLE - NOT FOR DISTRIBUTION OR LIVE USE.
+All names, routes and observations below are invented teaching data.
+The .invalid addresses deliberately do not resolve.
+
+OPERATOR HANDOFF
+Service: Example Chapel, example service, 8 November 2026 at 10:00
+Card version: E2
+Public listener destination: https://listen.example.invalid/service/example-1108
+Typed short address: https://chapel.example.invalid/listen
+Redirect owner: website volunteer
+Advertised offer: Spanish text during the sermon only; no audio promised
+Normal start instruction in this fictional system: select Spanish, then Start text
+Expected identity: Example Chapel - Example service 1108
+Test passage: an original permitted practice sentence prepared by the speaker
+Helper: welcome volunteer at the desk beside the main entrance
+Fallback: reviewed printed sermon outline at the same desk; it does not cover live changes
+Known change: E1's short address led to an old service. E2 corrects it.
+Evidence: see the fictional log's R02 failure and R02b retest.
+
+LISTENER CARD - FICTIONAL EXAMPLE
+Example Chapel - Example service, 8 November 2026 at 10:00
+Card version: E2
+
+LANGUAGE SUPPORT
+Spanish text is available during the sermon only.
+
+OPEN THE LISTENER PAGE
+Digital link label: Open this service's Spanish text
+Typed address: https://chapel.example.invalid/listen
+Choose Spanish, then Start text.
+
+NEED HELP?
+Find a welcome volunteer at the desk beside the main entrance.
+
+NO PHONE, OR THIS ROUTE DOES NOT WORK?
+Ask at the same desk for the reviewed printed sermon outline.
+It helps you follow the prepared outline; it does not cover live changes.
+
+This English teaching card is not a reviewed Spanish translation.
